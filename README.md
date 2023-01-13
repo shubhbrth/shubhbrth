@@ -1,7 +1,6 @@
 Hi 👋 My name is Shubham Barthwal
 ==============================
-
-Student / Machine Learning Engineer
+Machine Learning Engineer
 ----------------------------
 
 I am currently a student @ University of Southampton Pursuing @ MSc Artificial Intelligence
