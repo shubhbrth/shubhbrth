@@ -3,11 +3,11 @@ Hi 👋 My name is Shubham Barthwal
 Machine Learning Engineer
 ----------------------------
 
-I am currently a student @ University of Southampton Pursuing @ MSc Artificial Intelligence
+Passionate Machine Learning aiming to grow in the field of AI
 
-- 👀 I’m interested in solving problems.
-- 🌱 I’m currently learning ML/AI.
-- 💞️ I’m looking for job where I can contribute my skills and experience that can help in the company growth.
+- 💻 Passionate Machine Learning Engineer with a proven track record of success in developing and deploying machine learning models in production.
+- ✅ Excellent problem-solving skills and ability to work as a team while individually completing the task assigned. 
+- 💞️ Looking for projects that have some challenge
 - 📫 You can reach me at shubhambarthwal94@gmail.com
 
 <!---
